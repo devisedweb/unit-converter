@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+header {
+  background-color: #6943fe;
+  height: 200px;
+  padding: 10px;
+}
+
+#input {
+  border: 2px solid white;
+  border-radius: 5px;
+  width: 200px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+#convert-btn {
+  color: #6943fe;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 7px;
+}
+
+h3 {
+  color: #6943fe;
+}
+
+p {
+  color: black;
+}
